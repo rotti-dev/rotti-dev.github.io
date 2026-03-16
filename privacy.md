@@ -4,7 +4,7 @@
 This privacy policy for **rotti** ("we," "us," or "our") describes how and why we collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 * Download and use our mobile application — **Data Clicker**
 
-Questions or concerns? Reading this privacy policy will help you understand your privacy rights and options. If you do not agree with our policies and practices, please do not use our Services. If you still have questions or concerns, please contact us at **rott.dev@gmail.com**.
+Questions or concerns? Reading this privacy policy will help you understand your privacy rights and options. If you do not agree with our policies and practices, please do not use our Services. If you still have questions or concerns, please contact us at **rotti.dev@gmail.com**.
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -42,10 +42,10 @@ Depending on your location (e.g., in the European Economic Area, the United King
 * To request rectification or erasure.
 * To withdraw your consent for personalized advertising at any time (via the app's consent settings).
 
-If you have questions or comments about your privacy rights or wish to exercise them, you can send us an email at **rott.dev@gmail.com**.
+If you have questions or comments about your privacy rights or wish to exercise them, you can send us an email at **rotti.dev@gmail.com**.
 
 ## 8. HOW CAN YOU CONTACT US REGARDING THIS NOTICE?
-If you have questions or comments about this notice, you can send us an email at **rott.dev@gmail.com**.
+If you have questions or comments about this notice, you can send us an email at **rotti.dev@gmail.com**.
 
 
 
@@ -55,7 +55,7 @@ If you have questions or comments about this notice, you can send us an email at
 Diese Datenschutzerklärung für **rotti** ("wir", "uns" oder "unser") beschreibt, wie und warum wir Ihre Informationen erfassen, speichern, verwenden und/oder teilen ("verarbeiten"), wenn Sie unsere Dienste ("Dienste") nutzen, wie zum Beispiel, wenn Sie:
 * Unsere mobile Anwendung herunterladen und nutzen — **Data Clicker**
 
-Fragen oder Bedenken? Das Lesen dieser Datenschutzerklärung hilft Ihnen, Ihre Datenschutzrechte und -optionen zu verstehen. Wenn Sie mit unseren Richtlinien und Praktiken nicht einverstanden sind, nutzen Sie unsere Dienste bitte nicht. Wenn Sie weiterhin Fragen oder Bedenken haben, kontaktieren Sie uns bitte unter **rott.dev@gmail.com**.
+Fragen oder Bedenken? Das Lesen dieser Datenschutzerklärung hilft Ihnen, Ihre Datenschutzrechte und -optionen zu verstehen. Wenn Sie mit unseren Richtlinien und Praktiken nicht einverstanden sind, nutzen Sie unsere Dienste bitte nicht. Wenn Sie weiterhin Fragen oder Bedenken haben, kontaktieren Sie uns bitte unter **rotti.dev@gmail.com**.
 
 ## 1. WELCHE INFORMATIONEN ERFASSEN WIR?
 
@@ -93,7 +93,7 @@ Abhängig von Ihrem Standort (z. B. im Europäischen Wirtschaftsraum, im Vereini
 * Berichtigung oder Löschung zu verlangen.
 * Ihre Einwilligung für personalisierte Werbung jederzeit (über die Zustimmungseinstellungen der App) zu widerrufen.
 
-Wenn Sie Fragen oder Anmerkungen zu Ihren Datenschutzrechten haben oder diese ausüben möchten, können Sie uns eine E-Mail an **rott.dev@gmail.com** senden.
+Wenn Sie Fragen oder Anmerkungen zu Ihren Datenschutzrechten haben oder diese ausüben möchten, können Sie uns eine E-Mail an **rotti.dev@gmail.com** senden.
 
 ## 8. WIE KÖNNEN SIE UNS BEZÜGLICH DIESER ERKLÄRUNG KONTAKTIEREN?
-Wenn Sie Fragen oder Anmerkungen zu dieser Erklärung haben, können Sie uns eine E-Mail an **rott.dev@gmail.com** senden.
+Wenn Sie Fragen oder Anmerkungen zu dieser Erklärung haben, können Sie uns eine E-Mail an **rotti.dev@gmail.com** senden.
