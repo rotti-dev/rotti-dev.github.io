@@ -1,3 +1,54 @@
+# Privacy Policy
+**Last updated: March 16, 2026**
+
+This privacy policy for **rotti** ("we," "us," or "our") describes how and why we collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+* Download and use our mobile application — **Data Clicker**
+
+Questions or concerns? Reading this privacy policy will help you understand your privacy rights and options. If you do not agree with our policies and practices, please do not use our Services. If you still have questions or concerns, please contact us at **rott.dev@gmail.com**.
+
+## 1. WHAT INFORMATION DO WE COLLECT?
+
+**Automatically collected information**
+Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services. 
+
+This information does not reveal your specific identity but may include device and usage data, such as your IP address, operating system, device name, country, and other technical information. This information is primarily needed to maintain the security and operation of our Services and for advertising purposes.
+
+**In-app purchases & payment data**
+The application offers in-app purchases. All payment data and financial transactions are fully handled and stored via the **Google Play Billing** system. We do not process or store any of your financial information (such as credit card numbers).
+
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+* **To provide you with targeted advertising.** We use **Google AdMob** to display ads. We may process your information to develop and display personalized content and advertising.
+* **To facilitate in-app purchases.** We process your information to fulfill and manage your orders made through the Services.
+* **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure.
+
+## 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL DATA?
+We may share information in specific situations and with the following categories of third-party providers:
+* **Ad Networks:** Google AdMob
+* **Payment Processors:** Google Play Billing
+
+## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+We use Google’s User Messaging Platform (UMP) and similar mobile tracking technologies (such as mobile advertising IDs) to collect and store your consent preferences and to deliver targeted advertising (provided you have consented).
+
+## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law.
+
+## 6. DO WE COLLECT INFORMATION FROM MINORS?
+We do not knowingly solicit data from or market to children under 13 years of age. By using the Services, you represent that you are at least 13 years of age or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services.
+
+## 7. WHAT ARE YOUR PRIVACY RIGHTS?
+Depending on your location (e.g., in the European Economic Area, the United Kingdom, or California), you have rights that grant you greater access to and control over your personal information. These include the right:
+* To request access and obtain a copy of your personal information.
+* To request rectification or erasure.
+* To withdraw your consent for personalized advertising at any time (via the app's consent settings).
+
+If you have questions or comments about your privacy rights or wish to exercise them, you can send us an email at **rott.dev@gmail.com**.
+
+## 8. HOW CAN YOU CONTACT US REGARDING THIS NOTICE?
+If you have questions or comments about this notice, you can send us an email at **rott.dev@gmail.com**.
+
+
+
 # Datenschutzerklärung
 **Zuletzt aktualisiert: 16. März 2026**
 
