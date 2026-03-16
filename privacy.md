@@ -10,7 +10,8 @@ This page contains the Privacy Policy for the mobile application **Data Core** i
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
 
-**Lars Mertens** Wasserstraße 76  
+**Lars Mertens** 
+Wasserstraße 76  
 40668 Meerbusch  
 Germany  
 **Email:** rotti.dev@gmail.com
@@ -58,7 +59,8 @@ Under the GDPR, you have the right to access, rectify, or erase your personal da
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
 
-**Lars Mertens** Wasserstraße 76  
+**Lars Mertens** 
+Wasserstraße 76  
 40668 Meerbusch  
 Deutschland  
 **E-Mail:** rotti.dev@gmail.com
