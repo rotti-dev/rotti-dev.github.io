@@ -6,10 +6,10 @@ This privacy policy applies to the Data Clicker app (hereby referred to as "Appl
 
 The Application collects information when you download and use it. This information may include information such as
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
 The Application does not gather precise information about the location of your mobile device.
 
@@ -19,21 +19,25 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+**In-App Purchases**
+
+The Application may offer in-app purchases. All payment transactions are handled entirely by the Google Play Billing system. The Service Provider does not collect, process, or store any financial information, such as credit card numbers or bank details.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 **Opt-Out Rights**
 
