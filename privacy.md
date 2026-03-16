@@ -10,8 +10,8 @@ This page contains the Privacy Policy for the mobile application **Data Clicker*
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
 
-**[Dein Vor- und Nachname]** [Deine Straße und Hausnummer]  
-[Deine PLZ und Dein Wohnort]  
+**Lars, Mertens** Wasserstraße 76  
+40668, Meerbusch  
 Germany  
 **Email:** rotti.dev@gmail.com
 
@@ -58,8 +58,8 @@ Under the GDPR, you have the right to access, rectify, or erase your personal da
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
 
-**[Dein Vor- und Nachname]** [Deine Straße und Hausnummer]  
-[Deine PLZ und Dein Wohnort]  
+**Lars, Mertens** Wasserstraße 76  
+40668, Meerbusch  
 Deutschland  
 **E-Mail:** rotti.dev@gmail.com
 
