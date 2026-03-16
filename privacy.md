@@ -1,6 +1,6 @@
 # Privacy Policy & Datenschutzerklärung
 
-This page contains the Privacy Policy for the mobile application **Data Clicker** in English and German.
+This page contains the Privacy Policy for the mobile application **Data Core** in English and German.
 
 ---
 
@@ -10,8 +10,8 @@ This page contains the Privacy Policy for the mobile application **Data Clicker*
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
 
-**Lars, Mertens** Wasserstraße 76  
-40668, Meerbusch  
+**Lars Mertens** Wasserstraße 76  
+40668 Meerbusch  
 Germany  
 **Email:** rotti.dev@gmail.com
 
@@ -19,7 +19,7 @@ Germany
 
 ### **1.2 WHAT INFORMATION DO WE COLLECT?**
 
-* **Automatically collected information:** Some information — such as your IP address and device characteristics — is collected automatically via third-party SDKs. This is primarily needed to maintain the security and operation of our Services and for advertising purposes.
+* **Automatically collected information:** Some information — such as your IP address and device characteristics — is collected automatically via third-party SDKs. This is primarily needed to maintain the security and operation of our Services and for advertising purposes. Additionally, we receive anonymized crash reports and app statistics from Google Play to help us troubleshoot issues and improve the stability of the app.
 * **In-app purchases & payment data:** The application offers in-app purchases. All transactions are fully handled and stored via the **Google Play Billing** system. We do not process or store any of your financial information (such as credit card numbers).
 
 ---
@@ -58,8 +58,8 @@ Under the GDPR, you have the right to access, rectify, or erase your personal da
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
 
-**Lars, Mertens** Wasserstraße 76  
-40668, Meerbusch  
+**Lars Mertens** Wasserstraße 76  
+40668 Meerbusch  
 Deutschland  
 **E-Mail:** rotti.dev@gmail.com
 
@@ -67,7 +67,7 @@ Deutschland
 
 ### **2.2 WELCHE INFORMATIONEN ERFASSEN WIR?**
 
-* **Automatisch erfasste Informationen:** Informationen wie Ihre IP-Adresse und Geräteeigenschaften werden automatisch über Drittanbieter-SDKs erfasst. Dies dient der Sicherheit, dem technischen Betrieb der App und Werbezwecken.
+* **Automatisch erfasste Informationen:** Informationen wie Ihre IP-Adresse und Geräteeigenschaften werden automatisch über Drittanbieter-SDKs erfasst. Dies dient der Sicherheit, dem technischen Betrieb der App und Werbezwecken. Zudem erhalten wir von Google Play anonymisierte Absturzberichte und App-Statistiken, um Fehler zu beheben und die Stabilität der App zu verbessern.
 * **In-App-Käufe & Zahlungsdaten:** Die Anwendung bietet In-App-Käufe an. Alle Zahlungen werden vollständig über das **Google Play Billing**-System abgewickelt. Wir verarbeiten oder speichern keine Ihrer Finanzinformationen (wie z. B. Kreditkartennummern).
 
 ---
