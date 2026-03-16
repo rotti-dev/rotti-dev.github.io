@@ -47,7 +47,7 @@ If you have questions or comments about your privacy rights or wish to exercise 
 ## 8. HOW CAN YOU CONTACT US REGARDING THIS NOTICE?
 If you have questions or comments about this notice, you can send us an email at **rotti.dev@gmail.com**.
 
-
+##
 
 # Datenschutzerklärung
 **Zuletzt aktualisiert: 16. März 2026**
