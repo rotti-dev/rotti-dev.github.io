@@ -5,13 +5,12 @@ This page contains the Privacy Policy for the mobile application **Data Core** i
 ---
 
 ## 1. Privacy Policy (English)
-**Last updated: March 16, 2026**
+**Last updated: March 17, 2026**
 
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
 
-**Lars Mertens** 
-Wasserstraße 76  
+**Lars Mertens** Wasserstraße 76  
 40668 Meerbusch  
 Germany  
 **Email:** rotti.dev@gmail.com
@@ -38,7 +37,7 @@ We process your personal information based on the following legal grounds accord
 We share data with the following third-party providers. Please review their respective privacy policies:
 
 * **Ad Networks:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
-* **Payment Processors:** [Google Play Billing](https://payments.google.com/payments/apis-aup)
+* **Payment Processors:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(Currently inactive / being prepared for future updates)*
 
 ---
 
@@ -54,13 +53,12 @@ Under the GDPR, you have the right to access, rectify, or erase your personal da
 ---
 
 ## 2. Datenschutzerklärung (Deutsch)
-**Zuletzt aktualisiert: 16. März 2026**
+**Zuletzt aktualisiert: 17. März 2026**
 
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
 
-**Lars Mertens** 
-Wasserstraße 76  
+**Lars Mertens** Wasserstraße 76  
 40668 Meerbusch  
 Deutschland  
 **E-Mail:** rotti.dev@gmail.com
@@ -87,7 +85,7 @@ Wir verarbeiten Ihre Daten auf Basis folgender Rechtsgrundlagen der DSGVO:
 Wir teilen Daten mit den folgenden Anbietern. Bitte beachten Sie deren Datenschutzerklärungen für Details:
 
 * **Werbenetzwerke:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
-* **Zahlungsabwickler:** [Google Play Billing](https://payments.google.com/payments/apis-aup)
+* **Zahlungsabwickler:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(derzeit inaktiv / für zukünftige Updates in Vorbereitung)*
 
 ---
 
