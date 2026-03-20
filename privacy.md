@@ -5,7 +5,7 @@ This page contains the Privacy Policy for the mobile application **Data Core** i
 ---
 
 ## 1. Privacy Policy (English)
-**Last updated: March 17, 2026**
+**Last updated: March 20, 2026**
 
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
@@ -21,6 +21,7 @@ Germany
 
 * **Automatically collected information:** Information such as your IP address, device characteristics, and the Android Advertising ID (AAID) is collected automatically via third-party SDKs. This is required for the security, technical operation, and the provision of personalized advertisements. We also receive basic, anonymized crash reports via the standard Google Play Console to improve app stability.
 * **In-app purchases & payment data:** The application offers in-app purchases. All transactions are fully handled and stored via the **Google Play Billing** system. We do not process or store any of your financial information (e.g., credit card numbers).
+* **Game Progress & Play Games Services:** We use Google Play Games Services to provide leaderboards, achievements, and cloud saving functionalities. Your game progress is saved securely in a hidden, app-specific folder within your personal Google Drive account. We do not have direct access to your personal Google Drive files outside of this specific game save data.
 
 ---
 
@@ -38,8 +39,9 @@ We process your personal information based on the GDPR:
 ### **1.4 DATA TRANSFERS & THIRD PARTIES**
 We share data with the following providers. Google may act as an independent data controller for certain activities. Data may be transferred to countries outside the EU/EEA (e.g., the United States). We rely on Standard Contractual Clauses (SCCs) to ensure an adequate level of data protection.
 
-* **Ad Networks:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
+* **Ad Networks:** [Google AdMob & Ads Services]([https://policies.google.com/privacy](https://policies.google.com/technologies/ads))
 * **Payment Processors:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(Currently inactive / being prepared for future updates)*
+* **Gaming Services:** [Google Play Games Services](https://policies.google.com/privacy)
 
 ---
 
@@ -59,7 +61,7 @@ You also have the right to lodge a complaint with a supervisory authority. For a
 ---
 
 ## 2. Datenschutzerklärung (Deutsch)
-**Zuletzt aktualisiert: 17. März 2026**
+**Zuletzt aktualisiert: 20. März 2026**
 
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
@@ -75,6 +77,7 @@ Deutschland
 
 * **Automatisch erfasste Informationen:** Informationen wie Ihre IP-Adresse, Geräteeigenschaften und die Android-Werbe-ID (AAID) werden automatisch über Drittanbieter-SDKs erfasst. Dies dient der Sicherheit, dem technischen Betrieb und der Bereitstellung personalisierter Werbung. Zudem erhalten wir über die Standard-Funktionen der Google Play Console anonymisierte Absturzberichte zur Verbesserung der App-Stabilität.
 * **In-App-Käufe & Zahlungsdaten:** Die Anwendung bietet In-App-Käufe an. Alle Zahlungen werden vollständig über das **Google Play Billing**-System abgewickelt. Wir verarbeiten oder speichern keine Ihrer Finanzinformationen (z. B. Kreditkartennummern).
+* **Spielfortschritt & Play-Spieldienste:** Wir nutzen Google Play Games Services, um Bestenlisten, Erfolge und Cloud-Speicher (Cloud Save) anzubieten. Ihr Spielfortschritt wird sicher in einem versteckten, app-spezifischen Ordner in Ihrem persönlichen Google Drive-Konto gespeichert. Wir haben keinen direkten Zugriff auf Ihre privaten Google Drive-Dateien außerhalb dieser spezifischen Spielstanddaten.
 
 ---
 
@@ -92,8 +95,9 @@ Wir verarbeiten Ihre Daten auf Basis der DSGVO:
 ### **2.4 DATENÜBERMITTLUNG & DRITTANBIETER**
 Wir teilen Daten mit den folgenden Anbietern. Google kann bei bestimmten Verarbeitungen als eigenständiger Verantwortlicher agieren. Daten können in Länder außerhalb der EU/des EWR (z. B. in die USA) übermittelt werden. Wir stützen uns dabei auf Standardvertragsklauseln (SCCs), um ein angemessenes Datenschutzniveau zu gewährleisten.
 
-* **Werbenetzwerke:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
+* **Werbenetzwerke:** [Google AdMob & Ads Services]([https://policies.google.com/privacy](https://policies.google.com/technologies/ads))
 * **Zahlungsabwickler:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(derzeit inaktiv / für zukünftige Updates in Vorbereitung)*
+* **Gaming-Dienste:** [Google Play Games Services](https://policies.google.com/privacy)
 
 ---
 
