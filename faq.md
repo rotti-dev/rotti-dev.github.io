@@ -8,7 +8,7 @@
 Schreib mir bei Bugs, Ideen oder Fragen einfach direkt eine E-Mail an: [rotti.dev@gmail.com](mailto:rotti.dev@gmail.com)
 
 ### Gibt es einen Discord-Server?
-*[...]*
+Aktuell gibt es **keinen** offiziellen Discord-Server.
 
 ### Wie wird mein Spielstand gespeichert? (Cloud Save)
 Dein Fortschritt wird automatisch und sicher in der Cloud gespeichert – vorausgesetzt, du hast den Login bei den **Google Play Spieldiensten** zugelassen. Wenn du beim Start der App `[ SECURE CONNECTION: PLAY GAMES ONLINE ]` siehst, ist alles gesichert. Wenn du das Handy wechselst oder die App neu installierst, wird dein Spielstand automatisch wiederhergestellt, solange du dasselbe Google-Konto nutzt. 
