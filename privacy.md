@@ -59,6 +59,17 @@ Under the GDPR, you have the right to access, rectify, restrict the processing o
 You also have the right to lodge a complaint with a supervisory authority. For any requests, please contact us at **rotti.dev@gmail.com**.
 
 ---
+
+### **1.7 DATA DELETION INSTRUCTIONS**
+Since this application does not use personal backend servers, your game data is stored directly on your device and synced via Google Play Games Services. You have full control over your data and can delete it at any time:
+
+1. **Local Data:** You can delete your local game progress by using the "Wipe System" (Reset) button inside the in-game settings, or by clearing the app's data/cache in your Android Device Settings (`Settings > Apps > Data Core > Storage > Clear Data`).
+2. **Cloud Save Data:** To delete the game progress backed up to your Google account, open the **Google Play Games** app, go to `Settings > Delete Play Games account & data`, find **Data Core** in the list, and tap `Delete`.
+3. **Advertising Data:** You can reset or delete your Android Advertising ID in your device settings (`Settings > Google > Ads`).
+
+If you have contacted us via email and wish for your communication history to be deleted, please send a deletion request to **rotti.dev@gmail.com** and we will erase your emails from our inbox within 30 days.
+
+---
 ---
 
 ## 2. Datenschutzerklärung (Deutsch)
@@ -114,3 +125,14 @@ Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Ve
 **Widerruf:** Ihre Einwilligung zur personalisierten Werbung können Sie jederzeit in den App-Einstellungen oder über das Zurücksetzen der Werbe-ID in Ihren Android-Geräteeinstellungen widerrufen. 
 
 Zudem haben Sie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Bei Fragen wenden Sie sich bitte an **rotti.dev@gmail.com**.
+
+---
+
+### **2.7 ANLEITUNG ZUR DATENLÖSCHUNG**
+Da diese Anwendung keine eigenen Backend-Server verwendet, werden Ihre Spieldaten direkt auf Ihrem Gerät gespeichert und über die Google Play Spieldienste synchronisiert. Sie haben die volle Kontrolle über Ihre Daten und können diese jederzeit wie folgt löschen:
+
+1. **Lokale Daten:** Sie können Ihren lokalen Spielfortschritt über die Schaltfläche "Wipe System" (Zurücksetzen) in den In-Game-Einstellungen löschen oder indem Sie die App-Daten in den Einstellungen Ihres Android-Geräts bereinigen (`Einstellungen > Apps > Data Core > Speicher > Daten löschen`).
+2. **Cloud-Speicherdaten:** Um den in Ihrem Google-Konto gesicherten Spielfortschritt zu löschen, öffnen Sie die **Google Play Spiele**-App, gehen Sie zu `Einstellungen > Play Spiele-Konto und -Daten löschen`, suchen Sie **Data Core** in der Liste und tippen Sie auf `Löschen`.
+3. **Werbedaten:** Sie können Ihre Android-Werbe-ID in den Geräteeinstellungen zurücksetzen oder löschen (`Einstellungen > Google > Anzeigen`).
+
+Wenn Sie uns per E-Mail kontaktiert haben und möchten, dass dieser Kommunikationsverlauf gelöscht wird, senden Sie bitte eine formlose Löschanfrage an **rotti.dev@gmail.com**. Wir werden Ihre E-Mails dann innerhalb von 30 Tagen aus unserem Postfach löschen.
