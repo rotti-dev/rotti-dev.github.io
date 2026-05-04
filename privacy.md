@@ -41,7 +41,7 @@ We process your personal information based on the GDPR:
 We share data with the following providers. Google may act as an independent data controller for certain activities. Data may be transferred to countries outside the EU/EEA (e.g., the United States). We rely on Standard Contractual Clauses (SCCs) to ensure an adequate level of data protection.
 
 * **Ad Networks:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
-* **Payment Processors:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(Currently inactive / being prepared for future updates)*
+* **Payment Processors:** [Google Play Billing](https://payments.google.com/payments/apis-aup)
 * **Gaming Services:** [Google Play Games Services](https://policies.google.com/privacy)
 
 ---
@@ -109,7 +109,7 @@ Wir verarbeiten Ihre Daten auf Basis der DSGVO:
 Wir teilen Daten mit den folgenden Anbietern. Google kann bei bestimmten Verarbeitungen als eigenständiger Verantwortlicher agieren. Daten können in Länder außerhalb der EU/des EWR (z. B. in die USA) übermittelt werden. Wir stützen uns dabei auf Standardvertragsklauseln (SCCs), um ein angemessenes Datenschutzniveau zu gewährleisten.
 
 * **Werbenetzwerke:** [Google AdMob & Ads Services](https://policies.google.com/privacy)
-* **Zahlungsabwickler:** [Google Play Billing](https://payments.google.com/payments/apis-aup) *(derzeit inaktiv / für zukünftige Updates in Vorbereitung)*
+* **Zahlungsabwickler:** [Google Play Billing](https://payments.google.com/payments/apis-aup)
 * **Gaming-Dienste:** [Google Play Games Services](https://policies.google.com/privacy)
 
 ---
