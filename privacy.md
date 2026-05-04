@@ -5,7 +5,7 @@ This page contains the Privacy Policy for the mobile application **Data Core** i
 ---
 
 ## 1. Privacy Policy (English)
-**Last updated: March 20, 2026**
+**Last updated: May 05, 2026**
 
 ### **1.1 RESPONSIBLE CONTROLLER**
 The responsible entity for data processing in this application is:
@@ -73,7 +73,7 @@ If you have contacted us via email and wish for your communication history to be
 ---
 
 ## 2. Datenschutzerklärung (Deutsch)
-**Zuletzt aktualisiert: 20. März 2026**
+**Zuletzt aktualisiert: 05. Mai 2026**
 
 ### **2.1 VERANTWORTLICHE STELLE**
 Verantwortlich für die Datenverarbeitung in dieser App ist:
