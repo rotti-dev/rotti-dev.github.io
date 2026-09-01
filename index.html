@@ -83,35 +83,51 @@
             50% { opacity: 0.6; }
         }
 
-        /* --- FEATURED GAME CARD --- */
+        /* --- PROJECT CARDS --- */
+        .projects-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
         .project-card {
             background: var(--card-bg);
-            border: 1px solid var(--neon-magenta);
             border-radius: 8px;
             padding: 1.8rem;
-            margin-bottom: 2.5rem;
             position: relative;
-            box-shadow: 0 0 20px rgba(255, 0, 255, 0.15);
             transition: transform 0.2s, box-shadow 0.2s;
         }
 
         .project-card:hover {
             transform: translateY(-3px);
-            box-shadow: 0 0 25px rgba(255, 0, 255, 0.25);
         }
+
+        /* Spezifische Farben für die Apps */
+        .card-whopays {
+            border: 1px solid var(--neon-cyan);
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.15);
+        }
+        .card-whopays:hover { box-shadow: 0 0 25px rgba(0, 229, 255, 0.25); }
+        .card-whopays .tag { background: var(--neon-cyan); box-shadow: 0 0 10px var(--neon-cyan); color: #000; }
+
+        .card-datacore {
+            border: 1px solid var(--neon-magenta);
+            box-shadow: 0 0 20px rgba(255, 0, 255, 0.15);
+        }
+        .card-datacore:hover { box-shadow: 0 0 25px rgba(255, 0, 255, 0.25); }
+        .card-datacore .tag { background: var(--neon-magenta); box-shadow: 0 0 10px var(--neon-magenta); }
 
         .tag {
             position: absolute;
             top: -11px;
             right: 20px;
-            background: var(--neon-magenta);
             color: #ffffff;
             font-size: 0.75rem;
             font-weight: bold;
             padding: 0.15rem 0.6rem;
             border-radius: 3px;
             letter-spacing: 1px;
-            box-shadow: 0 0 10px var(--neon-magenta);
         }
 
         .project-title {
@@ -125,16 +141,22 @@
             font-size: 0.95rem;
             margin-bottom: 1.5rem;
         }
+        
+        .action-row {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
 
         .play-btn {
             display: inline-block;
             background: transparent;
             color: var(--terminal-green);
             border: 1px solid var(--terminal-green);
-            padding: 0.7rem 1.4rem;
+            padding: 0.6rem 1.2rem;
             text-decoration: none;
             font-weight: bold;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             border-radius: 4px;
             transition: all 0.2s;
             box-shadow: 0 0 10px rgba(0, 255, 102, 0.1);
@@ -146,10 +168,27 @@
             box-shadow: 0 0 15px var(--terminal-green);
         }
 
-        /* --- TERMINAL LINKS SECTION --- */
+        .doc-btn {
+            display: inline-block;
+            background: transparent;
+            color: #e6edf3;
+            border: 1px solid var(--border-color);
+            padding: 0.6rem 1.2rem;
+            text-decoration: none;
+            font-size: 0.85rem;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+
+        .doc-btn:hover {
+            border-color: #e6edf3;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        /* --- GLOBAL LINKS --- */
         .section-title {
             font-size: 1.1rem;
-            color: var(--neon-cyan);
+            color: var(--terminal-green);
             margin-bottom: 1rem;
             text-transform: uppercase;
             letter-spacing: 2px;
@@ -176,10 +215,10 @@
         }
 
         .terminal-link:hover {
-            border-color: var(--neon-cyan);
-            color: var(--neon-cyan);
+            border-color: var(--terminal-green);
+            color: var(--terminal-green);
             background: #111827;
-            box-shadow: 0 0 12px rgba(0, 229, 255, 0.15);
+            box-shadow: 0 0 12px rgba(0, 255, 102, 0.15);
             transform: translateX(4px);
         }
 
@@ -218,34 +257,49 @@
             <div class="status-pill">[ SYSTEM ONLINE ]</div>
         </header>
 
-        <!-- MAIN PROJECT CARD -->
         <main>
-            <div class="project-card">
-                <div class="tag">RELEASE v2.4.0</div>
-                <h2 class="project-title">Data Core: Idle Hacker Tycoon</h2>
-                <p class="project-desc">
-                    Tauche ein in das Darknet. Baue mächtige Daten-Kerne, überwinde feindliche Firewalls 
-                    und automatisiere dein illegales Hacker-Imperium im klassischen Cyberpunk-Stil.
-                </p>
-                <!-- Ersetze den # Link durch deinen echten Google Play Store Link sobald er live ist -->
-                <a href="https://play.google.com/store/apps/details?id=com.rotti.datacore&hl=de" class="play-btn">&gt; GOOGLE PLAY STORE</a>
+            <div class="projects-grid">
+                
+                <!-- NEW PROJECT: WHO PAYS -->
+                <div class="project-card card-whopays">
+                    <div class="tag">BETA v1.0.0</div>
+                    <h2 class="project-title">Who Pays (Party Game)</h2>
+                    <p class="project-desc">
+                        Die tickende Zeitbombe für deine Party. Beantworte die Fragen oder absolviere die Aufgaben, bevor der Timer abläuft. Eskalation garantiert.
+                    </p>
+                    <div class="action-row">
+                        <a href="#" class="play-btn">&gt; PRE-REGISTER NOW</a>
+                        <a href="privacy_whopays.html" class="doc-btn">🛡️ Privacy Policy</a>
+                        <a href="faq_whopays.html" class="doc-btn">❓ FAQ</a>
+                    </div>
+                </div>
+
+                <!-- OLD PROJECT: DATA CORE -->
+                <div class="project-card card-datacore">
+                    <div class="tag">RELEASE v2.4.0</div>
+                    <h2 class="project-title">Data Core: Idle Hacker Tycoon</h2>
+                    <p class="project-desc">
+                        Tauche ein in das Darknet. Baue mächtige Daten-Kerne, überwinde feindliche Firewalls 
+                        und automatisiere dein illegales Hacker-Imperium im klassischen Cyberpunk-Stil.
+                    </p>
+                    <div class="action-row">
+                        <a href="https://play.google.com/store/apps/details?id=com.rotti.datacore&hl=de" class="play-btn">&gt; GOOGLE PLAY STORE</a>
+                        <a href="privacy.html" class="doc-btn">🛡️ Privacy Policy</a>
+                    </div>
+                </div>
+
             </div>
 
-            <!-- LEGAL & SUPPORT LINKS -->
-            <h3 class="section-title">// Rechtliches &amp; Support</h3>
+            <!-- GLOBAL LINKS (Impressum gilt für alle) -->
+            <h3 class="section-title">// Globale Dokumente</h3>
             <div class="link-grid">
-                <!-- WICHTIG: .html statt .md benutzen! -->
-                <a href="privacy.html" class="terminal-link">
-                    <span>🛡️</span>
-                    <span>Datenschutz</span>
-                </a>
                 <a href="impressum.html" class="terminal-link">
                     <span>⚖️</span>
-                    <span>Impressum</span>
+                    <span>Entwickler Impressum</span>
                 </a>
-                <a href="faq.html" class="terminal-link">
-                    <span>❓</span>
-                    <span>FAQ &amp; Support</span>
+                <a href="mailto:rotti.dev@gmail.com" class="terminal-link">
+                    <span>✉️</span>
+                    <span>Kontakt & Support</span>
                 </a>
             </div>
         </main>
